@@ -13,25 +13,25 @@ program yang ada disini berupa sistem penggajian, penilaian, kalkulator, dan pem
 untuk menjalankan program ini, kita harus memasukan user name & pass yang telah ditentukan
 kemudian masuk ke menu pemilihan program
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/main.png" width="800" height="900" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/main.png" width="1000" height="900" />
 </p>
 
 # program 1 penilaian
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/nilai.png" width="800" height="900" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/nilai.png" width="1000" height="900" />
 </p>
 
 # program 2 penggajian
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/gaji.png" width="800" height="900" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/gaji.png" width="1000" height="900" />
 </p>
 
 # program 3 kalkulator
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/kalkulator.png" width="800" height="900" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/kalkulator.png" width="1000" height="900" />
 </p>
 
 # program 4 pembayaran
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/pembayaran.png" width="800" height="900" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/pembayaran.png" width="1000" height="900" />
 </p>
