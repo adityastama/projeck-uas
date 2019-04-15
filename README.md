@@ -8,4 +8,18 @@ program yang ada disini berupa sistem penggajian, penilaian, kalkulator, dan pem
 <p align="center">
 <img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/flowchart_page-0001.jpg" width="550" height="700" />
 </p>
+     
+#memulai program
+untuk menjalankan program ini, kita harus memasukan user name & pass yang telah ditentukan
+kemudian masuk ke menu pemilihan program
+<p align="center">
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/main.png" width="550" height="700" />
+</p>
+
+#program 1 penilaian
+<p align="center">
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/nilai.png" width="550" height="700" />
+</p>
+
+#program 2 
       
