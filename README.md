@@ -6,20 +6,32 @@ program yang ada disini berupa sistem penggajian, penilaian, kalkulator, dan pem
 
 # Flowchart yang terdapat di dalam program
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/flowchart_page-0001.jpg" width="550" height="700" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/flowchart_page-0001.jpg" width="800" height="900" />
 </p>
      
-#memulai program
+# memulai program
 untuk menjalankan program ini, kita harus memasukan user name & pass yang telah ditentukan
 kemudian masuk ke menu pemilihan program
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/main.png" width="550" height="700" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/main.png" width="800" height="900" />
 </p>
 
-#program 1 penilaian
+# program 1 penilaian
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/nilai.png" width="550" height="700" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/nilai.png" width="800" height="900" />
 </p>
 
-#program 2 
-      
+# program 2 penggajian
+<p align="center">
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/gaji.png" width="800" height="900" />
+</p>
+
+# program 3 kalkulator
+<p align="center">
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/kalkulator.png" width="800" height="900" />
+</p>
+
+# program 4 pembayaran
+<p align="center">
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/SS/pembayaran.png" width="800" height="900" />
+</p>
