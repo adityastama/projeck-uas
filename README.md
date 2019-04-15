@@ -6,6 +6,6 @@ program yang ada disini berupa sistem penggajian, penilaian, kalkulator, dan pem
 
 # Flowchart yang terdapat di dalam program
 <p align="center">
-<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/flowchart_page-0001.jpg" width="450" height="700" />
+<img src="https://github.com/adityastama/projeck-uas/blob/master/projek-uas/flowchart_page-0001.jpg" width="550" height="700" />
 </p>
       
